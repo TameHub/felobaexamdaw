@@ -1,0 +1,8 @@
+{
+    "nombre_base_datos": "feloba",
+    "user": "root",
+    "pass": "root",
+    "host": "192.168.112.3",
+    "port": 3306,
+    "tipo_base_datos":"mysql"
+}
